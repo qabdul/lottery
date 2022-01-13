@@ -1,9 +1,11 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/campaigns/newcampaign": "pages/campaigns/newcampaign.js",
+  "/campaigns/newcampaign": "pages/campaigns/newcampaign.html",
+  "/campaigns/requests": "pages/campaigns/requests.js",
+  "/campaigns/requests/newrequests": "pages/campaigns/requests/newrequests.js",
   "/campaigns/show": "pages/campaigns/show.js",
   "/": "pages/index.js",
-  "/campaigns/requests": "pages/campaigns/requests.js"
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from \"react\";\nimport \"../component/footer.css\";\n\nconst _app = () => {\n  return /*#__PURE__*/_jsx(\"div\", {});\n};\n\nexport default _app;","map":null,"metadata":{},"sourceType":"module"}

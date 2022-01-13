@@ -1,0 +1,1 @@
+{"ast":null,"code":"import web3 from \"./web3\";\nimport Campaign from \"./build/Campaign.json\"; // Instance of creating the intance, we are creating the function that will take the address annd do the rest.\n\nexport default (address => {\n  return new web3.eth.Contract(JSON.parse(Campaign.interface), address);\n});","map":null,"metadata":{},"sourceType":"module"}
