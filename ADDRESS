@@ -1,0 +1,11 @@
+Attempting to deploy from account 0x05C7518a2eB594eE04429b0faA2d71961d4b119C
+[{"constant":true,"inputs":[],"name":"getCreatedCampaignList","outputs":[{"name":"","type":"address[]"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"deployedCampaigns","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"minimum","type":"uint256"}],"name":"createCampaign","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
+Contract deployed to 0x4698d6667f9cF8994E6bec3d903922bD5BCE2eDE
+
+
+Updated Contract
+
+
+Attempting to deploy from account 0x05C7518a2eB594eE04429b0faA2d71961d4b119C
+[{"constant":true,"inputs":[],"name":"getCreatedCampaignList","outputs":[{"name":"","type":"address[]"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"deployedCampaigns","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"minimum","type":"uint256"}],"name":"createCampaign","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
+Contract deployed to 0x76b437362DfeC06123CF7f19229BE744aCDF48E5
